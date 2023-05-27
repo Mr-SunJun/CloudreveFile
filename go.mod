@@ -39,7 +39,7 @@ require (
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/scf v1.0.393
 	github.com/tencentyun/cos-go-sdk-v5 v0.0.0-20200120023323-87ff3bc489ac
 	github.com/upyun/go-sdk v2.1.0+incompatible
-	golang.org/x/image v0.0.0-20211028202545-6944b10bf410
+	golang.org/x/image v0.5.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 )
 
